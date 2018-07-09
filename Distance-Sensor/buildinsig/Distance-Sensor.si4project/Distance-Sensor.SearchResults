@@ -1,0 +1,4 @@
+---- VL53L0X_STRING_ERROR_REF_SPAD_INIT Matches (3 in 2 files) ----
+VL53L0X_get_pal_error_string in vl53l0x_api_strings.cpp (core\src) : 			VL53L0X_STRING_ERROR_REF_SPAD_INIT);
+vl53l0x_api_strings.h line 87 : 	#define  VL53L0X_STRING_ERROR_REF_SPAD_INIT                          ""
+vl53l0x_api_strings.h line 185 : 	#define  VL53L0X_STRING_ERROR_REF_SPAD_INIT \
